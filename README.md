@@ -25,6 +25,7 @@ Se você quiser discutir qualquer um dos meus projetos ou colaborar em algo novo
 
 - **LinkedIn:** https://www.linkedin.com/in/ronan-barradas/
 - **E-mail:** barradas.ronan@gmail.com
+- **Telefone/Whatsapp:** +55(21)996116061
 
 Obrigado pela visita e volte sempre!
 
