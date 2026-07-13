@@ -17,9 +17,9 @@ Neste perfil, compartilho alguns dos meus projetos em análise de dados, que mos
 
 ## Meu Objetivo
 
-Meu objetivo é me especializar cada vez mais em análise de dados, contribuir para a tomada de decisões estratégicas em organizações e continuar aprendendo sobre novas ferramentas e tecnologias na área de dados.
+Meu objetivo é evoluir continuamente como Analista de Dados, aprofundando meus conhecimentos em Business Intelligence, análise de dados, automação de processos e soluções orientadas por dados. Busco desenvolver projetos que transformem informações em insights estratégicos, contribuindo para a tomada de decisões e para a criação de soluções eficientes que gerem valor para o negócio.
 
-Se você quiser discutir qualquer um dos meus projetos ou colaborar em algo novo, fique à vontade para entrar em contato comigo!
+Este portfólio reflete essa jornada de aprendizado contínuo e reúne projetos pessoais, estudos e aplicações práticas que demonstram minha evolução técnica e minha forma de trabalhar. Se algum projeto despertar seu interesse ou você quiser trocar ideias sobre dados, tecnologia ou possíveis colaborações, ficarei feliz em conversar.
 
 ## Contato
 
