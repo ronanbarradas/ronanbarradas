@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Ronan, e estou em transição de carreira de assistente de departamento pessoal para analista de dados. Apaixonado por tecnologias, tendências e insights, decidi mergulhar no mundo da análise de dados para transformar informações em soluções estratégicas.
+Olá! Meu nome é Ronan e sou Analista de Dados, formado em Administração e apaixonado por transformar dados em informações que apoiam decisões e geram resultados. Minha trajetória profissional começou na área de Departamento Pessoal, onde atuei por quatro anos desenvolvendo habilidades em análise de processos, organização de informações, atenção aos detalhes e relacionamento com pessoas. Essa experiência foi fundamental para minha transição de carreira e hoje complementa minha atuação na área de dados.
 
-Com uma sólida experiência em departamento pessoal, fazendo ações como processamento de dados, controle de folha de pagamento, gestão de benefícios, atendimento a colaboradores, arquivamento e etc, estou aplicando meus conhecimentos em uma nova jornada na área de dados. Atualmente, estou me aprimorando em habilidades como Python, SQL, Power BI e Machine Learning, com o objetivo de me tornar um analista de dados cada dia melhor.
+Atualmente, trabalho com análise de dados utilizando ferramentas como Python, SQL, Power BI e Excel, desenvolvendo dashboards, automatizando processos, realizando tratamento e modelagem de dados e transformando grandes volumes de informação em insights estratégicos para o negócio.
 
 ## O que você encontrará aqui?
 
